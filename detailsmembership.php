@@ -107,6 +107,7 @@ include_once 'dbconnect.php';
             </ul>
           </li>
           <li><a href="#">Details about Members</a></li>
+          <li><a href="funding.php">Fundings</a></li>
         </ul>
       </nav>
       <div class="sdb_holder">
